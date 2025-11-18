@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://your-banner-image-link-here)
+![Banner](https://github.com/Arafat-Shalehin/Arafat-Shalehin/blob/main/Github%20Readme%20Banner.png?raw=true)
 
 # Hi, I’m Arafat  
 ### Full-Stack JavaScript Developer
