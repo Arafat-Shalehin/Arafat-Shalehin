@@ -83,7 +83,7 @@ A quick snapshot of my activity and code distribution.
 ## Contact  
 Feel free to reach out for collaboration or inquiries.
 
-- **Location:** Your City, Your Country  
+- **Location:** Dhaka, Bangladesh  
 - **Email:** md.arafatshalehin@gmail.com  
 - **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arafat-shalehin/)  
 - **GitHub:** [https://github.com/your-username](https://github.com/Arafat-Shalehin)  
