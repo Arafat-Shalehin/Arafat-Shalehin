@@ -2,28 +2,27 @@
 ![Banner](https://github.com/Arafat-Shalehin/Arafat-Shalehin/blob/main/Github%20Readme%20Banner.png?raw=true)
 
 # Hi, I’m Arafat  
-### Full-Stack JavaScript Developer
+### Junior Full-Stack JavaScript Developer
 
 ---
 
 ## About Me
 
-I am a passionate full-stack JavaScript developer focused on building clean, scalable, and user-centric web applications. I enjoy exploring modern technologies, improving code quality, and solving real-world problems with well-designed systems.
+I am a junior full-stack JavaScript developer focused on building clean, scalable web applications using React, Next.js, Node.js, and MongoDB.
+
+My work emphasizes practical system design, maintainable code, and real-world application logic rather than tutorial-based examples.
 
 ### What I’m Currently Working On
-- Exploring Next.js and server-side rendering concepts  
-- Building a production-grade MERN stack application  
-- Learning advanced React patterns for performance optimization  
-- Enhancing backend reliability with Express and MongoDB  
-- Working on UI/UX improvements for personal projects  
-- Experimenting with secure authentication workflows  
+- Building a production-focused full-stack application with Next.js and Node.js
+- Improving backend reliability and API design with Express and MongoDB
+- Applying advanced React patterns for performance and maintainability
 
 ---
 
 ## Tech Stack  
 Below are the technologies and tools I actively work with:
 
-[![My techStack](https://skillicons.dev/icons?i=js,html,css,tailwind,python,react,nextjs,nodejs,express,mongodb,firebase)](https://skillicons.dev)
+[![My techStack](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 ---
 
 ## Skill Stack  
@@ -37,30 +36,6 @@ _Working with modern tools to deliver efficient and scalable software solutions.
 - Using cloud services (Firebase)
 - State management in React
 - Building full-stack MERN/Next.js applications
-- UI design & basic branding
-- Workflow optimization using productivity tools & AI
-
----
-
-## Languages & Frameworks  
-_Focused primarily on JavaScript and its modern ecosystem._  
-
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
-
-[![My frameworks](https://skillicons.dev/icons?i=tailwind,react,nextjs,express)](https://skillicons.dev)
----
-
-## Database Technologies  
-_Experienced in document-based data modeling and API-driven systems._ 
-
-[![My database](https://skillicons.dev/icons?i=mongodb,firebase)](https://skillicons.dev)
-
----
-
-## Authentication & Security  
-_Implementing secure authentication flows for modern web applications._  
-
-[![My Authentication](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 ---
 
@@ -85,8 +60,8 @@ Feel free to reach out for collaboration or inquiries.
 
 - **Location:** Dhaka, Bangladesh  
 - **Email:** md.arafatshalehin@gmail.com  
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arafat-shalehin/)  
-- **GitHub:** [https://github.com/your-username](https://github.com/Arafat-Shalehin)  
+- **LinkedIn:** https://www.linkedin.com/in/arafat-shalehin/
+- **GitHub:** https://github.com/Arafat-Shalehin
 
 ---
 
