@@ -2,7 +2,7 @@
 ![Banner](https://github.com/Arafat-Shalehin/Arafat-Shalehin/blob/main/Github%20Readme%20Banner.png?raw=true)
 
 # Hi, I’m Arafat  
-### Junior Full-Stack JavaScript Developer
+### Junior Full-Stack Web Developer
 
 ---
 
