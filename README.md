@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a junior full-stack JavaScript developer focused on building clean, scalable web applications using React, Next.js, Node.js, and MongoDB.
+I am a junior full-stack Web developer focused on building clean, scalable web applications using React, Next.js, Node.js, and MongoDB.
 
 My work emphasizes practical system design, maintainable code, and real-world application logic rather than tutorial-based examples.
 
