@@ -22,7 +22,7 @@ My work emphasizes practical system design, maintainable code, and real-world ap
 ## Tech Stack  
 Below are the technologies and tools I actively work with:
 
-[![My techStack](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,firebase)](https://skillicons.dev)
+[![My techStack](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 ---
 
 ## Skill Stack  
@@ -42,7 +42,7 @@ _Working with modern tools to deliver efficient and scalable software solutions.
 ## Tools & Platforms  
 _Using reliable tools that enhance productivity and support smooth deployment._  
 
-[![My Tools](https://skillicons.dev/icons?i=github,git,vscode,notion,ai,ps)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,notion,ai,ps)](https://skillicons.dev)
 
 ---
 
