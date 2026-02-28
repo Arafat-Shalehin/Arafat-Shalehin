@@ -60,8 +60,9 @@ Feel free to reach out for collaboration or inquiries.
 
 - **Location:** Dhaka, Bangladesh  
 - **Email:** md.arafatshalehin@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/arafat-shalehin/
-- **GitHub:** https://github.com/Arafat-Shalehin
+- **LinkedIn:** [Arafat Shalehin](https://www.linkedin.com/in/arafat-shalehin/)
+- **GitHub:** [Arafat-Shalehin](https://github.com/Arafat-Shalehin)
+- **Portfolio:** [Arafat Shalehin](https://arafatshalehin.vercel.app/)
 
 ---
 
