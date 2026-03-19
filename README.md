@@ -1,69 +1,69 @@
-<!-- Banner -->
-![Banner](https://github.com/Arafat-Shalehin/Arafat-Shalehin/blob/main/Github%20Readme%20Banner.png?raw=true)
+<p align="center">
+  <img src="./Github_Banner.png" alt="Arafat Shalehin Banner" width="100%" />
+</p>
 
-# Hi, I’m Arafat  
-### Junior Full-Stack Web Developer
-
----
-
-## About Me
-
-I am a junior full-stack web developer focused on building clean, scalable web applications using React, Next.js, Node.js, and MongoDB.
-
-My work emphasizes practical system design, maintainable code, and real-world application logic rather than tutorial-based examples.
-
-### What I’m Currently Working On
-- Building a production-focused full-stack application with Next.js and Node.js
-- Improving backend reliability and API design with Express and MongoDB
-- Applying advanced React patterns for performance and maintainability
+<h1 align="center">Hi, I’m Arafat 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Junior_Full--Stack_Developer-bb9af7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Based_in_Dhaka-7aa2f7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_To-Collaboration-7dcfff?style=flat-square" />
+</p>
 
 ---
 
-## Tech Stack  
-Below are the technologies and tools I actively work with:
+### ⚡ Quick Overview
+I am a **Full-Stack Web Developer** specializing in the **MERN** ecosystem. I don't just write code; I architect solutions. My focus lies in creating seamless user experiences backed by robust, high-performance server logic.
 
-[![My techStack](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase)](https://skillicons.dev)
----
-
-## Skill Stack  
-_Working with modern tools to deliver efficient and scalable software solutions._  
-
-- Responsive UI development
-- Component-based front-end architecture
-- API development with Node.js & Express
-- Database modeling with MongoDB
-- Authentication workflow implementation
-- Using cloud services (Firebase)
-- State management in React
-- Building full-stack MERN/Next.js applications
+- 🔭 **Current Project:** Architecting a scalable SaaS platform using **Next.js 14** and **BullMQ**.
+- 🧪 **Researching:** Distributed systems, Redis caching strategies, and Docker orchestration.
+- ⚡ **Fun Fact:** I believe a clean folder structure is a love letter to your future self.
 
 ---
 
-## Tools & Platforms  
-_Using reliable tools that enhance productivity and support smooth deployment._  
-
-[![My Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,notion,ai,ps)](https://skillicons.dev)
+### 💻 My Tech Universe
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Frontend & UI</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & DB</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis,docker,bullmq&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Tools & Dev-Ops</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,ps,ai&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Deployment</h4>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats:  
-A quick snapshot of my activity and code distribution.  
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arafat-Shalehin&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github&bg_color=1a1b26&hide_border=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arafat-Shalehin&theme=tokyonight&border_radius=10&background=1a1b26&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-Shalehin&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b26&hide_border=true" height="165" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Arafat-Shalehin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arafat-Shalehin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-Shalehin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## Contact  
-Feel free to reach out for collaboration or inquiries.
-
-- **Location:** Dhaka, Bangladesh  
-- **Email:** md.arafatshalehin@gmail.com  
-- **LinkedIn:** [Arafat Shalehin](https://www.linkedin.com/in/arafat-shalehin/)
-- **GitHub:** [Arafat-Shalehin](https://github.com/Arafat-Shalehin)
-- **Portfolio:** [Arafat Shalehin](https://arafatshalehin.vercel.app/)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-Shalehin&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
-"Anything worth having, takes time"
+### 🤝 Let's Connect & Collaborate
+<p align="left">
+<a href="mailto:md.arafatshalehin@gmail.com"><img src="https://img.shields.io/badge/Email-md.arafatshalehin@gmail.com-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arafat-shalehin/"><img src="https://img.shields.io/badge/LinkedIn-Arafat_Shalehin-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://arafatshalehin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-7dcfff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
