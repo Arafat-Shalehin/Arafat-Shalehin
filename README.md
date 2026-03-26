@@ -39,7 +39,7 @@ I am a **Junior Full-Stack Web Developer** specializing in the **MERN** ecosyste
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Deployment</h4>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
     </td>
   </tr>
 </table>
