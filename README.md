@@ -47,16 +47,18 @@ I am a **Junior Full-Stack Web Developer** specializing in the **MERN** ecosyste
 ---
 
 ### 📈 GitHub Ecosystem
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafat-Shalehin&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github&bg_color=1a1b26&hide_border=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arafat-Shalehin&theme=tokyonight&border_radius=10&background=1a1b26&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-Shalehin&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b26&hide_border=true" height="165" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Arafat-Shalehin&cc=1a1b26&tc=70a5fd&ic=bf91f3&bc=00000000" height="165" alt="Arafat's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat-Shalehin&theme=tokyonight&border_radius=10&background=1a1b26&hide_border=true" height="165" alt="Arafat's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-Shalehin&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arafat-Shalehin&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b26&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-Shalehin&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" alt="Activity graph" />
 </p>
 
 ---
