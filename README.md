@@ -12,7 +12,7 @@
 ---
 
 ### ⚡ Quick Overview
-I am a **Junior Full-Stack Web Developer** specializing in the **MERN** ecosystem. I don't just write code; I architect solutions. My focus lies in creating seamless user experiences backed by robust, high-performance server logic.
+I am a **Full-Stack Web Developer** specializing in the **MERN** ecosystem. I don't just write code; I architect solutions. My focus lies in creating seamless user experiences backed by robust, high-performance server logic.
 
 - 🔭 **Current Project:** Architecting a scalable SaaS platform using **Next.js 14** and **BullMQ**.
 - 🧪 **Researching:** Distributed systems, Redis caching strategies, and Docker orchestration.
