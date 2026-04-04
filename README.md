@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I’m Arafat 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Junior_Full--Stack_Developer-bb9af7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Full--Stack_Developer-bb9af7?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Based_in_Dhaka-7aa2f7?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_To-Collaboration-7dcfff?style=flat-square" />
 </p>
