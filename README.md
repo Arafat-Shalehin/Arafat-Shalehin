@@ -12,11 +12,12 @@
 ---
 
 ### ⚡ Quick Overview
-I am a **Full-Stack Web Developer** specializing in the **MERN** ecosystem. I don't just write code, I architect solutions. My focus lies in creating seamless user experiences backed by robust, high-performance server logic.
 
-- 🔭 **Current Project:** Architecting a scalable SaaS platform using **Next.js 14** and **BullMQ**.
-- 🧪 **Researching:** Distributed systems, Redis caching strategies, and Docker orchestration.
-- ⚡ **Fun Fact:** I believe a clean folder structure is a love letter to your future self.
+I'm a **Next.js & React Developer** passionate about building modern web applications that are fast, scalable, and user-friendly. I enjoy transforming ideas into reliable digital products using clean code and thoughtful architecture.
+
+* 🔭 **Currently Building:** Modern web applications with Next.js, React, Node.js, and MongoDB.
+* 📚 **Currently Improving:** Backend architecture, system design, and application performance.
+* 💼 **Open To:** Freelance projects, remote opportunities, and hybrid roles.
 
 ---
 
