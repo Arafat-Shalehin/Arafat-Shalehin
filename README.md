@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Github_Banner.png" alt="Arafat Shalehin Banner" width="100%" />
+  <img src="./github-banner-arafat.png" alt="Arafat Shalehin Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Arafat 👋</h1>
