@@ -36,11 +36,11 @@ I'm a **Next.js & React Developer** passionate about building modern web applica
   <tr>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Dev-Ops</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,ps,ai&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,ps&theme=dark" />
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Deployment</h4>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,dokploy&theme=dark" />
     </td>
   </tr>
 </table>
