@@ -40,7 +40,7 @@ I'm a **Next.js & React Developer** passionate about building modern web applica
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Deployment</h4>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,dokploy&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
     </td>
   </tr>
 </table>
