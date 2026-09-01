@@ -37,6 +37,8 @@ I'm a **Next.js & React Developer** passionate about building modern web applica
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Dev-Ops</h4>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,ps&theme=dark" />
+      <br>
+      <img src="https://shields.io" alt="Termius" />
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Deployment</h4>
