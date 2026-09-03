@@ -15,8 +15,8 @@
 
 I'm a **Next.js & React Developer** passionate about building modern web applications that are fast, scalable, and user-friendly. I enjoy transforming ideas into reliable digital products using clean code and thoughtful architecture.
 
-* 🔭 **Currently Building:** Scalable web applications and RESTful APIs using Node.js, Next.js, and MongoDB.
-* 📚 **Currently Improving:** Advanced microservice architecture, asynchronous data pipelines, and system scalability.
+* 🔭 **Currently Building:** Scalable web applications and RESTful APIs using Node.js, Next.js, and MongoDB,
+* 📚 **Currently Improving:** Advanced microservice architecture, asynchronous data pipelines, and system scalability,
 * 💼 **Open To:** Freelance projects, custom backend development, and remote collaborations.
 
 ---
