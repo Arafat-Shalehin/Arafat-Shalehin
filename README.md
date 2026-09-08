@@ -26,7 +26,7 @@ I'm a **Next.js & React Developer** passionate about building modern web applica
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 Frontend & UI</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,java,react,nextjs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,nextjs&theme=dark" />
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & DB</h4>
