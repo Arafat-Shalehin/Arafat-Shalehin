@@ -2,7 +2,7 @@
   <img src="./github-banner-arafat.png" alt="Arafat Shalehin Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I’m Arafat 👋</h1>
+<h1 align="center">Hi, I’m Arafat👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-Full--Stack_Developer-bb9af7?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Based_in_Dhaka,_Bangladesh-7aa2f7?style=flat-square&logoColor=white" />
