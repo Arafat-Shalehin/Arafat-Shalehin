@@ -29,7 +29,7 @@ I'm a **Next.js & React Developer** passionate about building modern web applica
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,nextjs&theme=dark" />
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend</h4>
+      <h4>⚙️ Backend & DB</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis,docker,bullmq&theme=dark" />
     </td>
   </tr>
